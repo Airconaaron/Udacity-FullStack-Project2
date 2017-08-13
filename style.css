@@ -1,0 +1,31 @@
+.header{
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: #7d97ad;
+}
+.header-text {
+    float: right;
+}
+.logo {
+    max-width: 100px;
+    max-height: 100px;
+}
+.kitten-img {
+    margin: 1em 0em;
+}
+
+.feature {
+    border-bottom: 2px;
+    border-bottom-style: solid;
+    border-bottom-color: red;
+}
+
+/*.portfolio {
+    min-width: 100px;
+}*/
+
+.portfolio img{
+    /*margin: 0 auto;*/
+    min-width: 100px;
+    width: 100%;
+}
